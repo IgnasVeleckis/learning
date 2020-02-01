@@ -1,0 +1,9 @@
+nav {
+    a {
+        margin: 1rem;
+        color: black;
+        &.active {
+            color: red;
+        }
+    }
+}
